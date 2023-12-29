@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "66012018687",
+    "project_id": "login-4eebb",
+    "storage_bucket": "login-4eebb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66012018687:android:c33378940f612479e059ca",
+        "android_client_info": {
+          "package_name": "com.instaflutter.free_login_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66012018687-hi85hdpgiir1o29ad18fmbanvc27ei97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY2YJSdOzunFx2JaJqdxONLcTHoYSsXNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66012018687-hi85hdpgiir1o29ad18fmbanvc27ei97.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "66012018687-e2miudqpjm9jvotgifghekm37f5k8ier.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.instaflutter.freeloginscreen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
